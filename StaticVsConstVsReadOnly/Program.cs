@@ -11,7 +11,7 @@ namespace StaticVsConstVsReadOnly
         int x; //Non-static variable
         static int y = 200; //Static Variable
         const float PI = 3.14f; //Const Variable
-        static readonly bool flag; //Readonly Variable
+        readonly bool flag; //Readonly Variable
         public Example(int x, bool flag)
         {
             this.x = x;
