@@ -25,6 +25,8 @@ namespace StaticVsConstVsReadOnly
             Console.WriteLine(Example.PI);
             Example obj1 = new Example(501, true);
             Example obj2 = new Example(100, false);
+            Console.WriteLine(Example.y);
+            Console.WriteLine(Example.PI);
             Console.WriteLine(obj1.x + " " + obj2.x);
             Console.WriteLine(obj1.flag + " " + obj2.flag);
             Console.WriteLine("Press any key to exist.");
