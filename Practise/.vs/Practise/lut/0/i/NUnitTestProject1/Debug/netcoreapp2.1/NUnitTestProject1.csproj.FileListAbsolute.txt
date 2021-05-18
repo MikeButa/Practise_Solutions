@@ -1,0 +1,8 @@
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.AssemblyInfoInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.AssemblyInfo.cs
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.deps.json
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.dll
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.csproj.CopyComplete
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\NUnitTestProject1\Debug\netcoreapp2.1\NUnitTestProject1.dll

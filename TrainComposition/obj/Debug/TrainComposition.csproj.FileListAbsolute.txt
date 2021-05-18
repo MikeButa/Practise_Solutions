@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\TrainComposition\bin\Debug\TrainComposition.exe.config
+C:\Personal\Projects\Practice\TrainComposition\bin\Debug\TrainComposition.exe
+C:\Personal\Projects\Practice\TrainComposition\bin\Debug\TrainComposition.pdb
+C:\Personal\Projects\Practice\TrainComposition\obj\Debug\TrainComposition.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\TrainComposition\obj\Debug\TrainComposition.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\TrainComposition\obj\Debug\TrainComposition.exe
+C:\Personal\Projects\Practice\TrainComposition\obj\Debug\TrainComposition.pdb

@@ -1,0 +1,5 @@
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\Account\bin\Debug\Account.exe.config
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\Account\bin\Debug\Account.exe
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\Account\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\Account\Debug\Account.csproj.CopyComplete
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\Account\Debug\Account.exe

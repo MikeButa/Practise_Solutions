@@ -1,0 +1,5 @@
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\SortedSearch\bin\Debug\SortedSearch.exe.config
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\SortedSearch\bin\Debug\SortedSearch.exe
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\SortedSearch\Debug\SortedSearch.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\SortedSearch\Debug\SortedSearch.csproj.CopyComplete
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\SortedSearch\Debug\SortedSearch.exe

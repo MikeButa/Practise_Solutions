@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\AlertService\obj\Debug\AlertService.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\AlertService\obj\Debug\AlertService.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\AlertService\bin\Debug\AlertService.exe.config
+C:\Personal\Projects\Practice\AlertService\bin\Debug\AlertService.exe
+C:\Personal\Projects\Practice\AlertService\bin\Debug\AlertService.pdb
+C:\Personal\Projects\Practice\AlertService\obj\Debug\AlertService.exe
+C:\Personal\Projects\Practice\AlertService\obj\Debug\AlertService.pdb

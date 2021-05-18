@@ -1,0 +1,5 @@
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\HenEgg\bin\Debug\HenEgg.exe.config
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\HenEgg\bin\Debug\HenEgg.exe
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\HenEgg\Debug\HenEgg.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\HenEgg\Debug\HenEgg.csproj.CopyComplete
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\HenEgg\Debug\HenEgg.exe

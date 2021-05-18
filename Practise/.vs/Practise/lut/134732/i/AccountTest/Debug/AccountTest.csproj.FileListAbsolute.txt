@@ -1,0 +1,5 @@
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\AccountTest\bin\Debug\AccountTest.exe.config
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\AccountTest\bin\Debug\AccountTest.exe
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\AccountTest\Debug\AccountTest.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\AccountTest\Debug\AccountTest.csproj.CopyComplete
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\AccountTest\Debug\AccountTest.exe

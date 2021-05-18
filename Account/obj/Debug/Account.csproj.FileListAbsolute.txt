@@ -1,0 +1,6 @@
+C:\Personal\Projects\Practice\Account\bin\Debug\Account.exe.config
+C:\Personal\Projects\Practice\Account\bin\Debug\Account.exe
+C:\Personal\Projects\Practice\Account\bin\Debug\Account.pdb
+C:\Personal\Projects\Practice\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Account\obj\Debug\Account.exe
+C:\Personal\Projects\Practice\Account\obj\Debug\Account.pdb

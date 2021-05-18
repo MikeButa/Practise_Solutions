@@ -1,0 +1,10 @@
+C:\Personal\Projects\Practice\AccountTest\bin\Debug\AccountTest.exe.config
+C:\Personal\Projects\Practice\AccountTest\bin\Debug\AccountTest.exe
+C:\Personal\Projects\Practice\AccountTest\bin\Debug\AccountTest.pdb
+C:\Personal\Projects\Practice\AccountTest\bin\Debug\nunit.framework.dll
+C:\Personal\Projects\Practice\AccountTest\bin\Debug\nunit.framework.xml
+C:\Personal\Projects\Practice\AccountTest\obj\Debug\AccountTest.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\AccountTest\obj\Debug\AccountTest.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\AccountTest\obj\Debug\AccountTest.csproj.CopyComplete
+C:\Personal\Projects\Practice\AccountTest\obj\Debug\AccountTest.exe
+C:\Personal\Projects\Practice\AccountTest\obj\Debug\AccountTest.pdb

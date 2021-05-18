@@ -1,0 +1,5 @@
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\UserInput\bin\Debug\UserInput.exe.config
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\UserInput\bin\Debug\UserInput.exe
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\UserInput\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\UserInput\Debug\UserInput.csproj.CopyComplete
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\UserInput\Debug\UserInput.exe

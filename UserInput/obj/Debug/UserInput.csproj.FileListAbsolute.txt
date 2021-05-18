@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\UserInput\bin\Debug\UserInput.exe.config
+C:\Personal\Projects\Practice\UserInput\bin\Debug\UserInput.exe
+C:\Personal\Projects\Practice\UserInput\bin\Debug\UserInput.pdb
+C:\Personal\Projects\Practice\UserInput\obj\Debug\UserInput.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\UserInput\obj\Debug\UserInput.exe
+C:\Personal\Projects\Practice\UserInput\obj\Debug\UserInput.pdb

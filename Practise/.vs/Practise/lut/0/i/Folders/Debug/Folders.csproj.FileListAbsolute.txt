@@ -1,0 +1,5 @@
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\Folders\bin\Debug\Folders.exe.config
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\Folders\bin\Debug\Folders.exe
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\Folders\Debug\Folders.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\Folders\Debug\Folders.csproj.CopyComplete
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\Folders\Debug\Folders.exe

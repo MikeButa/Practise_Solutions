@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\HenEgg\bin\Debug\HenEgg.exe.config
+C:\Personal\Projects\Practice\HenEgg\bin\Debug\HenEgg.exe
+C:\Personal\Projects\Practice\HenEgg\bin\Debug\HenEgg.pdb
+C:\Personal\Projects\Practice\HenEgg\obj\Debug\HenEgg.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\HenEgg\obj\Debug\HenEgg.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\HenEgg\obj\Debug\HenEgg.exe
+C:\Personal\Projects\Practice\HenEgg\obj\Debug\HenEgg.pdb

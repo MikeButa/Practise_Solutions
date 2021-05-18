@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\RoutePlanner\bin\Debug\RoutePlanner.exe.config
+C:\Personal\Projects\Practice\RoutePlanner\bin\Debug\RoutePlanner.exe
+C:\Personal\Projects\Practice\RoutePlanner\bin\Debug\RoutePlanner.pdb
+C:\Personal\Projects\Practice\RoutePlanner\obj\Debug\RoutePlanner.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\RoutePlanner\obj\Debug\RoutePlanner.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\RoutePlanner\obj\Debug\RoutePlanner.exe
+C:\Personal\Projects\Practice\RoutePlanner\obj\Debug\RoutePlanner.pdb

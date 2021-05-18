@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\SortedSearch\bin\Debug\SortedSearch.exe.config
+C:\Personal\Projects\Practice\SortedSearch\bin\Debug\SortedSearch.exe
+C:\Personal\Projects\Practice\SortedSearch\bin\Debug\SortedSearch.pdb
+C:\Personal\Projects\Practice\SortedSearch\obj\Debug\SortedSearch.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\SortedSearch\obj\Debug\SortedSearch.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\SortedSearch\obj\Debug\SortedSearch.exe
+C:\Personal\Projects\Practice\SortedSearch\obj\Debug\SortedSearch.pdb

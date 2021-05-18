@@ -1,0 +1,6 @@
+C:\Personal\Projects\Practice\Question2\bin\Debug\Question2.exe.config
+C:\Personal\Projects\Practice\Question2\bin\Debug\Question2.exe
+C:\Personal\Projects\Practice\Question2\bin\Debug\Question2.pdb
+C:\Personal\Projects\Practice\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Question2\obj\Debug\Question2.exe
+C:\Personal\Projects\Practice\Question2\obj\Debug\Question2.pdb

@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\StaticVsConstVsReadOnly\bin\Debug\StaticVsConstVsReadOnly.exe.config
+C:\Personal\Projects\Practice\StaticVsConstVsReadOnly\bin\Debug\StaticVsConstVsReadOnly.exe
+C:\Personal\Projects\Practice\StaticVsConstVsReadOnly\bin\Debug\StaticVsConstVsReadOnly.pdb
+C:\Personal\Projects\Practice\StaticVsConstVsReadOnly\obj\Debug\StaticVsConstVsReadOnly.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\StaticVsConstVsReadOnly\obj\Debug\StaticVsConstVsReadOnly.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\StaticVsConstVsReadOnly\obj\Debug\StaticVsConstVsReadOnly.exe
+C:\Personal\Projects\Practice\StaticVsConstVsReadOnly\obj\Debug\StaticVsConstVsReadOnly.pdb

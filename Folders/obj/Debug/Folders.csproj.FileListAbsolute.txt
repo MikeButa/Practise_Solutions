@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\Folders\bin\Debug\Folders.exe.config
+C:\Personal\Projects\Practice\Folders\bin\Debug\Folders.exe
+C:\Personal\Projects\Practice\Folders\bin\Debug\Folders.pdb
+C:\Personal\Projects\Practice\Folders\obj\Debug\Folders.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\Folders\obj\Debug\Folders.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Folders\obj\Debug\Folders.exe
+C:\Personal\Projects\Practice\Folders\obj\Debug\Folders.pdb

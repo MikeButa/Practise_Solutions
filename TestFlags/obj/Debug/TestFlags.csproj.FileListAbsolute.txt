@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\TestFlags\bin\Debug\TestFlags.exe.config
+C:\Personal\Projects\Practice\TestFlags\bin\Debug\TestFlags.exe
+C:\Personal\Projects\Practice\TestFlags\bin\Debug\TestFlags.pdb
+C:\Personal\Projects\Practice\TestFlags\obj\Debug\TestFlags.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\TestFlags\obj\Debug\TestFlags.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\TestFlags\obj\Debug\TestFlags.exe
+C:\Personal\Projects\Practice\TestFlags\obj\Debug\TestFlags.pdb

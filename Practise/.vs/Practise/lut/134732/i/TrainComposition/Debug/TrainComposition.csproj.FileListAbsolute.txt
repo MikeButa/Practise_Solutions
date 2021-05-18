@@ -1,0 +1,5 @@
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\TrainComposition\bin\Debug\TrainComposition.exe.config
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\TrainComposition\bin\Debug\TrainComposition.exe
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\TrainComposition\Debug\TrainComposition.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\TrainComposition\Debug\TrainComposition.csproj.CopyComplete
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\TrainComposition\Debug\TrainComposition.exe

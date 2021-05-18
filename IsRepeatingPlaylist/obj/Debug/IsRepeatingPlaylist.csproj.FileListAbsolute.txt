@@ -1,0 +1,6 @@
+C:\Personal\Projects\Practice\IsRepeatingPlaylist\bin\Debug\IsRepeatingPlaylist.exe.config
+C:\Personal\Projects\Practice\IsRepeatingPlaylist\bin\Debug\IsRepeatingPlaylist.exe
+C:\Personal\Projects\Practice\IsRepeatingPlaylist\bin\Debug\IsRepeatingPlaylist.pdb
+C:\Personal\Projects\Practice\IsRepeatingPlaylist\obj\Debug\IsRepeatingPlaylist.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\IsRepeatingPlaylist\obj\Debug\IsRepeatingPlaylist.exe
+C:\Personal\Projects\Practice\IsRepeatingPlaylist\obj\Debug\IsRepeatingPlaylist.pdb

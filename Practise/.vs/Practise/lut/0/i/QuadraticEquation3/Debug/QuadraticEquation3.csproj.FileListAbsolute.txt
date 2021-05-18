@@ -1,0 +1,5 @@
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\QuadraticEquation3\bin\Debug\QuadraticEquation3.exe.config
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\QuadraticEquation3\bin\Debug\QuadraticEquation3.exe
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\QuadraticEquation3\Debug\QuadraticEquation3.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\QuadraticEquation3\Debug\QuadraticEquation3.csproj.CopyComplete
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\QuadraticEquation3\Debug\QuadraticEquation3.exe

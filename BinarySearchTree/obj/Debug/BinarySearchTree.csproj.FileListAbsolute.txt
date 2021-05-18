@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+C:\Personal\Projects\Practice\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+C:\Personal\Projects\Practice\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Personal\Projects\Practice\BinarySearchTree\obj\Debug\BinarySearchTree.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+C:\Personal\Projects\Practice\BinarySearchTree\obj\Debug\BinarySearchTree.pdb

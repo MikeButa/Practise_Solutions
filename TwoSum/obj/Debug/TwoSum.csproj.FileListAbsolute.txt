@@ -1,0 +1,7 @@
+C:\Personal\Projects\Practice\TwoSum\bin\Debug\TwoSum.exe.config
+C:\Personal\Projects\Practice\TwoSum\bin\Debug\TwoSum.exe
+C:\Personal\Projects\Practice\TwoSum\bin\Debug\TwoSum.pdb
+C:\Personal\Projects\Practice\TwoSum\obj\Debug\TwoSum.csprojAssemblyReference.cache
+C:\Personal\Projects\Practice\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\TwoSum\obj\Debug\TwoSum.exe
+C:\Personal\Projects\Practice\TwoSum\obj\Debug\TwoSum.pdb

@@ -1,0 +1,9 @@
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\QuadraticEquation\Debug\netcoreapp2.1\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\QuadraticEquation\Debug\netcoreapp2.1\QuadraticEquation.AssemblyInfoInputs.cache
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\QuadraticEquation\Debug\netcoreapp2.1\QuadraticEquation.AssemblyInfo.cs
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\QuadraticEquation\Debug\netcoreapp2.1\QuadraticEquation.deps.json
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\QuadraticEquation\Debug\netcoreapp2.1\QuadraticEquation.runtimeconfig.json
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\QuadraticEquation\Debug\netcoreapp2.1\QuadraticEquation.runtimeconfig.dev.json
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\b\QuadraticEquation\Debug\netcoreapp2.1\QuadraticEquation.dll
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\QuadraticEquation\Debug\netcoreapp2.1\QuadraticEquation.csproj.CopyComplete
+C:\Personal\Projects\Practice\Practise\.vs\Practise\lut\0\i\QuadraticEquation\Debug\netcoreapp2.1\QuadraticEquation.dll
